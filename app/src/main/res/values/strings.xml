@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BD_Contactos</string>
+    <string name="mis_contactos">Mis Contactos</string>
+    <string name="nuevo">Añadir</string>
+    <string name="hintName">Tu Nombre</string>
+    <string name="hintPhone">Numero Telefonico</string>
+    <string name="hintMail">Corrreo Electronico</string>
+    <string name="backH">Home</string>
+    <string name="addBtn">Agregar</string>
+    <string name="addTitulo">Agregar Nuevo Contacto</string>
+    <string name="tituloEdit">Editar Contacto</string>
+    <string name="btnMod">Modificar</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="mail">Email</string>
+    <string name="contacPic">Foto del contacto</string>
+    <string name="asunto">Asunto</string>
+    <string name="destinatario">Destinatario</string>
+    <string name="mensaje">Redacta tu mensaje</string>
+    <string name="enviar">Enviar Mail</string>
+</resources>
